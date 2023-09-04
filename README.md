@@ -1,3 +1,8 @@
+1)npm install
+2)npm start
+sample output
+![memorycard](https://github.com/vivek-00-7/Memorycard-game/assets/109313493/47bbad49-8c68-4684-b5f9-9e7a070dca1e)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
